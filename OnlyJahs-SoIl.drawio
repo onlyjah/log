@@ -43,8 +43,8 @@
         <mxCell id="990" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" value="5" vertex="1">
           <mxGeometry height="120" width="74" x="874" y="1251" as="geometry" />
         </mxCell>
-        <mxCell id="991" parent="1" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" value="&lt;div&gt;Establish persistence with human&lt;/div&gt;&lt;div&gt;representatives from organizations&lt;/div&gt;&lt;div&gt;and individual users of relevant&lt;/div&gt;&lt;div&gt;services and resources&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="290" x="949" y="429" as="geometry" />
+        <mxCell id="991" parent="1" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" value="&lt;div&gt;Establish relationships with&amp;nbsp;envoys,&lt;/div&gt;&lt;div&gt;sovereign members, and consumers&lt;/div&gt;&lt;div&gt;of relevant resources and&amp;nbsp;services&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="300" x="949" y="429" as="geometry" />
         </mxCell>
         <mxCell id="992" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;fontColor=#dddddd;align=left;" value="OnlyJah: SO/IL" vertex="1">
           <mxGeometry height="78" width="700" x="888" y="79" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="997" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" value="RECURSION" vertex="1">
           <mxGeometry height="40" width="160" x="948.9999999999999" y="1324" as="geometry" />
         </mxCell>
-        <mxCell id="999" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" value="&lt;div&gt;Allow users the option to view&lt;/div&gt;&lt;div&gt;one another, showcase projects&lt;/div&gt;&lt;div&gt;and exchange information&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="260" x="1272.5" y="647" as="geometry" />
+        <mxCell id="999" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" value="&lt;div&gt;Support member visibility,&lt;/div&gt;&lt;div&gt;exchange&amp;nbsp;information and&lt;/div&gt;&lt;div&gt;adversise projects/products&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="230" x="1272.5" y="647" as="geometry" />
         </mxCell>
         <mxCell id="1002" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" value="&lt;div&gt;Provide database and file system&lt;/div&gt;&lt;div&gt;access at request for users who&amp;nbsp;&lt;/div&gt;&lt;div&gt;store, organize, and&amp;nbsp;serve data&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="270" x="949" y="919" as="geometry" />
