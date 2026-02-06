@@ -64,7 +64,7 @@
         <mxCell id="997" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" value="RECURSION" vertex="1">
           <mxGeometry height="40" width="160" x="948.9999999999999" y="1324" as="geometry" />
         </mxCell>
-        <mxCell id="999" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" value="&lt;div&gt;Support member visibility,&lt;/div&gt;&lt;div&gt;exchange&amp;nbsp;information and&lt;/div&gt;&lt;div&gt;advertise projects/products&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Membershop, /community&lt;/div&gt;" vertex="1">
+        <mxCell id="999" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" value="&lt;div&gt;Support member visibility,&lt;/div&gt;&lt;div&gt;exchange&amp;nbsp;information and&lt;/div&gt;&lt;div&gt;advertise projects/products&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Membershop, /catalog&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="230" x="1278" y="644" as="geometry" />
         </mxCell>
         <mxCell id="1002" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" value="&lt;div&gt;Provide database and file system&lt;/div&gt;&lt;div&gt;access at request for users who&amp;nbsp;&lt;/div&gt;&lt;div&gt;store, organize, and&amp;nbsp;serve data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OpenCloud, /cloud&lt;/div&gt;" vertex="1">
