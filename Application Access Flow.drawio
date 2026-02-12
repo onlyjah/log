@@ -70,7 +70,7 @@
         <mxCell id="VwbT337_fQ7I8_JvF4rz-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=17;fontStyle=0;" value="&lt;div&gt;through&lt;/div&gt;&lt;div&gt;___&lt;/div&gt;&lt;div&gt;portal&lt;/div&gt;" vertex="1">
           <mxGeometry height="234" width="234" x="150" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="VwbT337_fQ7I8_JvF4rz-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=11;fontSize=17;fontStyle=0;" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;I will access&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;___&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;application&lt;/p&gt;" vertex="1">
+        <mxCell id="VwbT337_fQ7I8_JvF4rz-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=11;fontSize=17;fontStyle=0;strokeColor=#FFD966;" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;I will access&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;___&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;application&lt;/p&gt;" vertex="1">
           <mxGeometry height="234" width="234" x="308" y="189" as="geometry" />
         </mxCell>
         <mxCell id="TdJLTku5ketqiDKZylSD-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="" vertex="1">
